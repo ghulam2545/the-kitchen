@@ -1,4 +1,4 @@
-# Sorting Algorithm
+## Sorting Algorithm
 
 some intro
 
