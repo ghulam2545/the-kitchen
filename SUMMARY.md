@@ -4,3 +4,4 @@
 * [Sorting Algorithm](sorting-algorithm/README.md)
   * [Bubble Sort](sorting-algorithm/bubble-sort.md)
   * [Selection Sort](sorting-algorithm/selection-sort.md)
+  * [Insertion Sort](sorting-algorithm/insertion-sort.md)
