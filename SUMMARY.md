@@ -2,7 +2,7 @@
 
 * [Your Welcome in The Kitchen](README.md)
 
-* [Searching Algorithm](README.md)
+* [Searching Algorithm](searching-algorithm/README.md)
   * [Linear Search](searching-algorithm/linear-search.md)
 
 * [Sorting Algorithm](sorting-algorithm/README.md)
