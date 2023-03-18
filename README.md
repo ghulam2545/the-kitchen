@@ -1,6 +1,5 @@
 # the-kitchen
 
-{% code lineNumbers="true" %}
 ```cpp
 #include <iostream>
 using namespace std;
@@ -10,4 +9,3 @@ int main() {
     return 0;
 }
 ```
-{% endcode %}
