@@ -1,3 +1,5 @@
 # Table of contents
 
-* [the-kitchen](README.md)
+* [Home](README.md)
+* [Sorting Algorithm](sorting-algorithm/README.md)
+  * [Bubble Sort](sorting-algorithm/bubble-sort.md)
