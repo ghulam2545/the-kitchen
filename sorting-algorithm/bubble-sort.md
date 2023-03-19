@@ -37,6 +37,6 @@ int main() {
 }
 ```
 
-> Time Complexity: O(n<sup>2</sup>)
+> Time Complexity: O(n^2)
 >
 > Space Complexity: O(1)

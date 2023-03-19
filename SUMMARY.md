@@ -10,3 +10,6 @@
 * [Sorting Algorithm](sorting-algorithm/README.md)
   * [Bubble Sort](sorting-algorithm/bubble-sort.md)
   * [Selection Sort](sorting-algorithm/selection-sort.md)
+
+* [Dynamic Programming](dynamic-programming/README.md)
+  * [Min Coin Change](dynamic-programming/min-coin.md)
