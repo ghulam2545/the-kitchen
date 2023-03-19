@@ -13,3 +13,4 @@
 
 * [Dynamic Programming](dynamic-programming/README.md)
   * [Min Coin Change](dynamic-programming/min-coin.md)
+  * [Max Coin Change](dynamic-programming/max-coin.md)
