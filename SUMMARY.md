@@ -1,16 +1,9 @@
-## Table of contents
+# Table of contents
 
-* [Your Welcome in The Kitchen](README.md)
-
-* [Searching Algorithm](searching-algorithm/README.md)
-  * [Linear Search](searching-algorithm/linear-search.md)
-  * [Binary Search](searching-algorithm/binary-search.md)
-  * [Hash Search](searching-algorithm/hash-search.md)
-
-* [Sorting Algorithm](sorting-algorithm/README.md)
-  * [Bubble Sort](sorting-algorithm/bubble-sort.md)
-  * [Selection Sort](sorting-algorithm/selection-sort.md)
-
-* [Dynamic Programming](dynamic-programming/README.md)
-  * [Min Coin Change](dynamic-programming/min-coin.md)
-  * [Max Coin Change](dynamic-programming/max-coin.md)
+* [The SOLID Principles](README.md)
+* [Single Responsibility Principle](single-responsibility-principle.md)
+* [Open-Closed Principle](open-closed-principle.md)
+* [Liskov Substitution Principle](liskov-substitution-principle.md)
+* [Interface Segregation Principle](interface-segregation-principle.md)
+* [Dependency Inversion Principle](dependency-inversion-principle.md)
+* [QnA](qna.md)
