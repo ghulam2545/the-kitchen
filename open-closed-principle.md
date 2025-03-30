@@ -11,7 +11,7 @@ todo
 
 ```java
 // ************************** BAD CODE ************************** //
-pclass CardIssuer {
+class CardIssuer {
     public void issueCard(String cardType) {
         if (cardType.equals("CREDIT")) {
             System.out.println("Issuing Credit Card.");
